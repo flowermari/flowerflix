@@ -1,0 +1,13 @@
+body {
+    color: rgb(100,30,150);
+    background: rgb(120,80,150);
+    margin: 10px;
+  font-family: "Afacad Flux", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 39px;
+    color: rgb(50, 40, 200);
+}
